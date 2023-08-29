@@ -1,6 +1,4 @@
-import React from "react";
-
-const MovieDetail = ({ params }) => {
+const MovieDetail = () => {
   // console.log(params);
 
   return <div></div>;
